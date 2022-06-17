@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "AntiProcrastinator",
+  "description": "AntiProcrastinator",
+  "version": "1",
+  "author": "Ronan Takizawa",
+  "browser_action": {
+    "default_title": "AntiProcrastinator",
+	"default_popup": "newtab.html"
+  },
+  "permissions": [
+    "activeTab"
+	]
+}
